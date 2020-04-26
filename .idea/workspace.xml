@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8800399-205f-46c6-ae0e-9293753474e0" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="174" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../445prre" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CS445-Project-rs" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/pop/rs/RideApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="TestMe with JUnit4 &amp; Mockito" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>{pid}</find>
+      <find>&lt;pid&gt;</find>
+      <find>&lt;aid&gt;</find>
+      <find>&lt;rid&gt;</find>
+      <find>&lt;jid&gt;</find>
+      <find>return new ResponseEntity&lt;FailureResponse&gt;(HttpStatus.NOT_FOUND);</find>
+      <find>return new ResponseEntity&lt;FailureResponse&gt;(HttpStatus.BAD_REQUEST);</find>
+      <find>2.2.6.RELEASE</find>
+      <find>RideId</find>
+      <find>rideId</find>
+      <find>accountId</find>
+      <find>AccountId</find>
+      <find>ride</find>
+      <find>/rider</find>
+      <find>This</find>
+      <find>@Q</find>
+      <find>nor</find>
+      <find>messa</find>
+      <find>rati</find>
+      <find>averag</find>
+      <find>driver</find>
+      <find>join</find>
+      <find>message</find>
+      <find>mess</find>
+      <find>key</find>
+      <find>float</find>
+      <find>from_cit</find>
+      <find>locationInfo</find>
+      <find>dateTime</find>
+      <find>rating</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>joinRequest</replace>
+      <replace>message</replace>
+      <replace />
+      <replace>&lt;</replace>
+      <replace>&lt;aid&gt;</replace>
+      <replace>&lt;rid&gt;</replace>
+      <replace>&lt;pid&gt;</replace>
+      <replace>{pid}</replace>
+      <replace>{aid}</replace>
+      <replace>{rid}</replace>
+      <replace>{jid}</replace>
+      <replace>return new ResponseEntity&lt;&gt;(failureResponse,HttpStatus.NOT_FOUND);</replace>
+      <replace>return new ResponseEntity&lt;&gt;(failureResponse,HttpStatus.BAD_REQUEST);</replace>
+      <replace>rid</replace>
+      <replace>Rid</replace>
+      <replace>aid</replace>
+      <replace>Aid</replace>
+      <replace>1.5.9.RELEASE</replace>
+      <replace>Double</replace>
+      <replace>location_info</replace>
+      <replace>date_time</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="652" />
+    <option name="y" value="211" />
+    <option name="width" value="1268" />
+    <option name="height" value="684" />
+  </component>
+  <component name="ProjectId" id="1b5dUaGJW97N3CfsOzCd3s6zlCa" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CS445-rs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS445-rs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS445-rs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS445-rs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS445-rs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS445-rs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS445-rs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS445-rs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS445-rs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS445-rs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rs" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.statistic.project.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/test/java/org/pop/lf2u/service" />
+      <recent name="$PROJECT_DIR$/src/test/java/org/pop/lf2u/controller" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.pop.lf2u.model" />
+      <recent name="org.pop.lf2u.service" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.RideApplication">
+    <configuration name="RideApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.pop.rs.RideApplication" />
+      <module name="rs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.pop.rs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountControllerTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="rs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.pop.rs.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.pop.rs.controller" />
+      <option name="MAIN_CLASS_NAME" value="org.pop.rs.controller.AccountControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountServiceTest.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.pop.rs.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.pop.rs.service" />
+      <option name="MAIN_CLASS_NAME" value="org.pop.rs.service.AccountServiceTest" />
+      <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in rs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rs" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReportServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.pop.rs.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.pop.rs.service" />
+      <option name="MAIN_CLASS_NAME" value="org.pop.rs.service.ReportServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReportServiceTest.testReports" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.pop.rs.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.pop.rs.service" />
+      <option name="MAIN_CLASS_NAME" value="org.pop.rs.service.ReportServiceTest" />
+      <option name="METHOD_NAME" value="testReports" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.pop.rs in rs" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="rs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.pop.rs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.pop.rs" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Remote" nameIsGenerated="true">
+      <module name="rs" />
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="8000" />
+      <option name="AUTO_RESTART" value="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="8000" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY">
+      <option name="DOC_BASE" value="$PROJECT_DIR$/src/main/java/org/pop/lf2u/configuration" />
+      <option name="DOC_MODULE_ROOT" value="" />
+      <option name="CONTEXT_PATH" value="/" />
+      <option name="TOMCAT_PORT" value="8080" />
+      <option name="AJP_PORT" value="8009" />
+      <option name="ADMIN_PORT" value="8005" />
+      <option name="VM_OPTIONS" value="" />
+      <option name="PASS_PARENT_ENV_OPTIONS" value="true" />
+      <option name="CLASS_NAME" value="" />
+      <option name="DEBUG" value="" />
+      <option name="DIGEST" value="" />
+      <option name="ROLE_NAME_COL" value="" />
+      <option name="USER_CRED_COL" value="" />
+      <option name="USER_NAME_COL" value="" />
+      <option name="USER_ROLE_TABLE" value="" />
+      <option name="USER_TABLE" value="" />
+      <option name="JNDI_GLOBAL" value="" />
+      <option name="JNDI_NAME" value="" />
+      <option name="JNDI_TYPE" value="" />
+      <option name="DATA_SOURCE_NAME" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.RideApplication" />
+      <item itemvalue="JUnit.org.pop.rs in rs" />
+      <item itemvalue="JUnit.AccountControllerTest" />
+      <item itemvalue="JUnit.ReportServiceTest" />
+      <item itemvalue="JUnit.ReportServiceTest.testReports" />
+      <item itemvalue="JUnit.AccountServiceTest.testAdd" />
+      <item itemvalue="JUnit.All in rs" />
+      <item itemvalue="Remote.Unnamed" />
+      <item itemvalue="Smart Tomcat.Unnamed" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RideApplication" />
+        <item itemvalue="JUnit.All in rs" />
+        <item itemvalue="JUnit.AccountServiceTest.testAdd" />
+        <item itemvalue="JUnit.ReportServiceTest" />
+        <item itemvalue="JUnit.ReportServiceTest.testReports" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8800399-205f-46c6-ae0e-9293753474e0" name="Default Changelist" comment="" />
+      <created>1586152553026</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586152553026</updated>
+      <workItem from="1587240408481" duration="2651000" />
+      <workItem from="1587254697966" duration="87000" />
+      <workItem from="1587413717463" duration="386000" />
+      <workItem from="1587414139203" duration="3100000" />
+      <workItem from="1587605472017" duration="617000" />
+      <workItem from="1587610069815" duration="43000" />
+      <workItem from="1587653172009" duration="881000" />
+      <workItem from="1587660111047" duration="592000" />
+      <workItem from="1587660820005" duration="598000" />
+      <workItem from="1587684475510" duration="3629000" />
+      <workItem from="1587749017475" duration="762000" />
+      <workItem from="1587786776727" duration="1317000" />
+      <workItem from="1587919193984" duration="23000" />
+      <workItem from="1587919285073" duration="873000" />
+      <workItem from="1587921229257" duration="945000" />
+      <workItem from="1587922202427" duration="240000" />
+      <workItem from="1587922466546" duration="440000" />
+      <workItem from="1587922930681" duration="37000" />
+      <workItem from="1587922989381" duration="48000" />
+      <workItem from="1587923058052" duration="674000" />
+      <workItem from="1587923757892" duration="44000" />
+      <workItem from="1587923834683" duration="44000" />
+      <workItem from="1587923903048" duration="104000" />
+      <workItem from="1587924035427" duration="399000" />
+      <workItem from="1587925908673" duration="913000" />
+      <workItem from="1587929033211" duration="201000" />
+      <workItem from="1587931179783" duration="726000" />
+      <workItem from="1587931932559" duration="273000" />
+    </task>
+    <task id="LOCAL-00001" summary="initilal commit">
+      <created>1587931681064</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587931681064</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="org_pop_lf2u_in_lf2u - 2020.04.18 at 22h 28m 48s.xml">
+      <configuration name="org.pop.lf2u in lf2u" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="org_pop_lf2u_in_lf2u - 2020.04.18 at 22h 29m 28s.xml">
+      <configuration name="org.pop.lf2u in lf2u" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="org_pop_lf2u_in_lf2u - 2020.04.18 at 22h 39m 29s.xml">
+      <configuration name="org.pop.lf2u in lf2u" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="org_pop_lf2u_in_lf2u - 2020.04.18 at 22h 40m 00s.xml">
+      <configuration name="org.pop.lf2u in lf2u" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="org_pop_lf2u_in_lf2u - 2020.04.18 at 22h 40m 46s.xml">
+      <configuration name="org.pop.lf2u in lf2u" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="org_pop_lf2u_in_lf2u - 2020.04.18 at 22h 42m 06s.xml">
+      <configuration name="org.pop.lf2u in lf2u" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="org_pop_lf2u_in_lf2u - 2020.04.18 at 22h 42m 23s.xml">
+      <configuration name="org.pop.lf2u in lf2u" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AccountServiceTest_testAdd - 2020.04.22 at 21h 48m 26s.xml">
+      <configuration name="AccountServiceTest.testAdd" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_rs - 2020.04.26 at 12h 18m 58s.xml">
+      <configuration name="All in rs" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_rs - 2020.04.26 at 12h 19m 44s.xml">
+      <configuration name="All in rs" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="999000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="54" y="-4" width="1866" height="1044" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25247526" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32896176" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="14" visible="true" weight="0.33005464" />
+      <window_info anchor="bottom" id="Style Checker" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="PlantUML" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initilal commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initilal commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="618" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1587925921725">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="618" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1587925921725" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1587925986625">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587925986625" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1587929035665">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1587929035665" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/pop/rs/service/MessageService.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/pop/rs/controller/AccountController.java</url>
+          <line>232</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/pop/rs/service/ReportService.java</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/pop/rs/common/Utils.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/pop/rs/service/ReportService.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CS445_Project_lf2u$UtilsTest.ic" NAME="UtilsTest Coverage Results" MODIFIED="1586266124013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.pop.lf2u.common.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/CS445_Project_lf2u$RideControllerTest_testValidJoinRequests.ic" NAME="RideControllerTest.testValidJoinRequests Coverage Results" MODIFIED="1586266046008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.pop.lf2u.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/CS445_Project_rs$All_in_rs.ic" NAME="All in rs Coverage Results" MODIFIED="1587921582315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/CS445_Project_lf2u$RideServiceTest_testByDepartureDate.ic" NAME="RideServiceTest.testByDepartureDate Coverage Results" MODIFIED="1586171473034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.pop.lf2u.service.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/CS445_Project_lf2u$All_in_lf2u.ic" NAME="All in lf2u Coverage Results" MODIFIED="1586153395982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/CS445_Project_lf2u$org_pop_lf2u_in_lf2u.ic" NAME="org.pop.lf2u in lf2u Coverage Results" MODIFIED="1587229939192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.pop.lf2u.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/CS445_Project_lf2u$RideControllerTest_testInvalidUpdateMessages.ic" NAME="RideControllerTest.testInvalidUpdateMessages Coverage Results" MODIFIED="1586165390013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.pop.lf2u.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/CS445_Project_lf2u$RideControllerTest.ic" NAME="RideControllerTest Coverage Results" MODIFIED="1586165143073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.pop.lf2u.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/CS445_Project_lf2u$ReportServiceTest.ic" NAME="ReportServiceTest Coverage Results" MODIFIED="1586266456476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.pop.lf2u.service.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/CS445_Project_lf2u$RideControllerTest_testValidCreateRide.ic" NAME="RideControllerTest.testValidCreateRide Coverage Results" MODIFIED="1586265119423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.pop.lf2u.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/CS445_Project_lf2u$RideControllerTest_testInvalidCreate.ic" NAME="RideControllerTest.testInvalidCreate Coverage Results" MODIFIED="1586172904632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.pop.lf2u.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/CS445_Project_lf2u$AccountControllerTest.ic" NAME="AccountControllerTest Coverage Results" MODIFIED="1586172555062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.pop.lf2u.controller.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>joinRequest.getAid()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ride.getDriverId()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>joinRequest.getAid().equalsIgnoreCase(ride.getDriverId()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>StringUtils.isEmpty(joinRequest.getAid()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>if(StringUtils.isEmpty(joinRequest.getAid())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>if(StringUtils.isEmpty(joinRequest.getAid()) || !joinRequest.getAid().equalsIgnoreCase(ride.getDriverId())){</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ride.getDriverId().equalsIgnoreCase(aid)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>accountService.findById(ride.getDriverId()).isActive()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>accountService.findById(ride.getDriverId())==null</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/pop/rs/RideApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Bundled Protobuf Distribution</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>lf2u</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
