@@ -2,11 +2,11 @@
 
 #Steps to install Java on the system
 $ sudo add-apt-repository ppa:webupd8team/java
-$ sudo apt-get update
-$ sudo apt-get install oracle-java8-installer
+$ sudo apt update
+$ sudo apt install openjdk-8-jdk
 
 #Install maven to the system
-$ sudo apt-get install maven
+$ sudo apt install maven
 
 #Set maven and java path in the environment
 
