@@ -1,7 +1,6 @@
 #Configuration instructions
 
 #Steps to install Java on the system
-$ sudo add-apt-repository ppa:webupd8team/java
 $ sudo apt update
 $ sudo apt install openjdk-8-jdk
 
@@ -12,13 +11,9 @@ $ sudo apt install maven
 
 
 #Build and deployment instruction as follows:-
-After maven installed, get into the path of the project, then use command line: mvn spring-boot:run
+After maven installed, get into the directory of the project, then use command line: mvn spring-boot:run
 It is a boot application which has inbuilt webapp and tomcat to run the jar image on server. The application will by default run on 8080 port
 NO Database has been used
-
-
-#Copyright and licensing instructions
-License: GNU GENERAL PUBLIC LICENSE v3.0
 
 
 #Known bugs
