@@ -9,6 +9,8 @@ $ sudo apt install maven
 
 #Set maven and java path in the environment
 
+#Run Test
+mvn clean test
 
 #Build and deployment instruction as follows:-
 After maven installed, get into the directory of the project, then use command line: mvn spring-boot:run
