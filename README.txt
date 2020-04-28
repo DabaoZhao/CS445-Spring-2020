@@ -12,9 +12,8 @@ $ sudo apt-get install maven
 
 
 #Build and deployment instruction as follows:-
-Open the project into Intellij IDE and set JDK .
-It is a boot application which has inbuilt webapp and tomcat to run the jar image on server.
-Run the src/main/java/org.pop.rs/RideApplication as a java application, the application will by default run on 8080 port
+After maven installed, get into the path of the project, then use command line: mvn spring-boot:run
+It is a boot application which has inbuilt webapp and tomcat to run the jar image on server. The application will by default run on 8080 port
 NO Database has been used
 
 
